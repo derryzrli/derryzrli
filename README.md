@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Derry, a software-engineer-turned __data scientist__ 🧑🏻‍💻 who loves language learning 🌏, art exploration 🎨, and recreating childhood foods 🍲
 - 👀 I’m interested in using data analytics and machine learning to extract insights for social goods, whatever realm it may be in :)
 - 🌱 I’m currently learning supervised models in ML and how to cook rice in a pot 🍚
-- 🦄 For more projects I am involved in, checkout medium.com/@derryzrli and www.massshootingdatabase.org 
+- 🦄 For more projects I am involved in, checkout www.medium.com/@derryzrli and www.massshootingdatabase.org 
 - 📫 You can reach me by derryzrli@gmail.com
 - 💞️ Take care and have a happy day ! 
 
